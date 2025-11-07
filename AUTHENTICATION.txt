@@ -1,0 +1,8 @@
+Two types of auth | -
+
+
+a) Statefull b) Statelesss
+
+cookies are domain based
+can also cookie can expire
+and also you can pass domain
