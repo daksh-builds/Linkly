@@ -11,7 +11,7 @@ Full-featured URL shortener with authentication and analytics built with Node.js
 
 ## Installation
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/daksh-builds/Linkly.git
+cd Linkly
 npm install
 
